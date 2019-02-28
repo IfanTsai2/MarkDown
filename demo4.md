@@ -34,38 +34,3 @@
 
 <!-- 以下是本文用到的链接 -->
 [baidu]:http://www.baidu.com
-
-## 多级有序列表
-
-- 问题1： 如何打断？
-	空行不行， 需要插入文字段落
-	
-1. item 1
-    1. item 1.1
-    1. item 1.2
-2. item 2
-
-
-abcdefgffff
-
-
-
-3. item 3
-
-- 问题2： 如何续上？
-	插入的文字段落缩进四个空格
-	
-1. item 1
-    1. item 1.1
-    1. item 1.2
-2. item 2
-
-
-	abcdefgffff
-	
-
-
-3. item 3
-
-
-
